@@ -1,0 +1,52 @@
+h1{
+  color : black;
+  text-align: center;
+  padding-top: 2%;
+  font-size: 40px;
+  font-weight: bolder;
+}
+h3{
+  color : black;
+  text-align: center;
+  padding-top: 2%;
+  font-size: 40px;
+  font-weight: bolder;
+}
+p
+{
+
+}
+body
+{
+  padding: 0.5%;
+  font-size: 15px;
+  font-weight: bold;
+
+  font-family: monospace;
+}
+
+#background{
+    position:absolute;
+    z-index:0;
+    background:white;
+    display:block;
+    min-height:80%; 
+    min-width:50%;
+    color:white;
+}
+
+
+#bg-text
+{
+    color:lightgrey;
+    font-size:205px;
+    ms-transform: rotate(-345deg);
+    transform:rotate(-345deg);
+    -webkit-transform:rotate(-345deg);
+
+	  padding-right:100px;
+	  padding-left:100px;
+	  padding-top:100px;
+  	  width: 100%;
+  	  padding-bottom:280px
+}
