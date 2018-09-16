@@ -9,8 +9,13 @@ h1{
 }
 
 body{
+<<<<<<< HEAD
   /* background : url(logo.jpg); */
   /* background-size: cover;
+=======
+  /*background : url(logo.jpg); */
+  background-size: cover;
+>>>>>>> 8fd54d50a50a90321c73beceafb780a6538e9c5f
   opacity:0.9;
   -webkit-filter: blur(0px);
   background-position: center; */
