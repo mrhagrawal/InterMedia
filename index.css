@@ -9,7 +9,7 @@ h1{
 }
 
 body{
-  background : url(https://images.pexels.com/photos/436781/pexels-photo-436781.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+  background : url(logo.jpg);
   background-size: cover;
   opacity:0.9;
   -webkit-filter: blur(0px);
