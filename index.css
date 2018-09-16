@@ -9,12 +9,26 @@ h1{
 }
 
 body{
-  background : url(logo.jpg);
-  background-size: cover;
+  /* background : url(logo.jpg); */
+  /* background-size: cover;
   opacity:0.9;
   -webkit-filter: blur(0px);
-  padding: 1%;
-  background-position: center;
+  background-position: center; */
+}
+
+.left {
+/* float: left; */
+/* padding: 0 10px 10px 0; */
+max-width: 800px;
+    height: 400px;
+background-position: left;
+background-position : center;
+}
+
+.right {
+float: right;
+padding: 0 10px 10px 0;
+background-position: right;
 }
 
 #mainnav
