@@ -9,7 +9,7 @@ h1{
 }
 
 body{
-  background : url(logo.jpg);
+  /*background : url(logo.jpg); */
   background-size: cover;
   opacity:0.9;
   -webkit-filter: blur(0px);
