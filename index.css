@@ -9,7 +9,7 @@ h1{
 }
 
 body{
-  background : url(logo.jpg); 
+  /*background : url(logo.jpg); */
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom right;
