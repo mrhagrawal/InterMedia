@@ -14,10 +14,14 @@ body{
   /* background-size: cover;
 =======
   /*background : url(logo.jpg); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom right;
   background-size: cover;
 >>>>>>> 8fd54d50a50a90321c73beceafb780a6538e9c5f
   opacity:0.9;
   -webkit-filter: blur(0px);
+<<<<<<< HEAD
   background-position: center; */
 }
 
@@ -34,6 +38,9 @@ background-position : center;
 float: right;
 padding: 0 10px 10px 0;
 background-position: right;
+=======
+  padding: 1%;
+>>>>>>> 6a2054b5152ef90d41f4070ef9376cd55cce5ce8
 }
 
 #mainnav
