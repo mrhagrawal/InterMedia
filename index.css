@@ -5,7 +5,7 @@ h1{
 #content
 {
    /* text-align: center; */
-   padding: 20%;
+   padding: 10%;
 }
 
 body{
@@ -47,4 +47,8 @@ text-align: left;
 }
 body{
   padding: 1%;
+}
+
+table, th, td {
+    border: 1px solid white;
 }
