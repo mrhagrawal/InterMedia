@@ -1,5 +1,5 @@
 h1{
-  color : black;
+  color : rgb(35,19,110);
   text-align: center;
   padding-top: 3%;
 }
@@ -8,6 +8,14 @@ h3{
   color : grey;
   padidng : 2%;
 
-  body{
-    padding: 1%;
+body{
+    padding: 2%;
+    opacity : 0.9;
+  }
+
+  .bg-dark {
+      background-color: rgb(35,19,110)!important;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+      color: rgba(255,255,255,0.8);
   }
