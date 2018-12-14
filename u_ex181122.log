@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-11-22 10:12:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-11-22 10:12:02 W3SVC35 172.107.175.224 GET / - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 200 0 0 743 332 1187
+2018-11-22 10:12:02 W3SVC35 172.107.175.224 GET /favicon.ico - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 404 0 2 1406 313 252
+2018-11-22 10:15:37 W3SVC35 172.107.175.224 GET / - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 403 14 0 1394 332 246
+2018-11-22 10:15:37 W3SVC35 172.107.175.224 GET /favicon.ico - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 404 0 2 1406 313 249
+2018-11-22 10:21:41 W3SVC35 172.107.175.224 GET / - 80 - 14.139.243.170 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 403 14 0 1394 544 359
+2018-11-22 10:21:41 W3SVC35 172.107.175.224 GET /favicon.ico - 80 - 14.139.243.170 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 404 0 2 1406 525 499
+2018-11-22 10:24:49 W3SVC35 172.107.175.224 GET / - 80 - 14.139.243.170 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 403 14 0 1394 570 500
+2018-11-22 10:24:49 W3SVC35 172.107.175.224 GET /favicon.ico - 80 - 14.139.243.170 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 404 0 2 1406 551 503
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-11-22 12:54:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-11-22 12:54:02 W3SVC35 172.107.175.224 GET / - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:64.0)+Gecko/20100101+Firefox/64.0 - 403 14 0 1394 332 414
+2018-11-22 12:54:02 W3SVC35 172.107.175.224 GET /favicon.ico - 80 - 121.46.94.81 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:64.0)+Gecko/20100101+Firefox/64.0 - 404 0 2 1406 313 252
