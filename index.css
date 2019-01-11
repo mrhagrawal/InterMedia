@@ -5,6 +5,11 @@ h1{
 #content
 {
    padding: 10%;
+
+}
+
+.fntsiz{
+  font-size : 1.5rem;
 }
 
 .container-fluid {
@@ -15,11 +20,40 @@ h1{
     margin-left: auto;
 }
 
+.navbar-expand-lg {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+     justify-content: space-between; 
+}
+
+.navbar-nav {
+    padding-right: 10%;
+   
+}
+
+.navbar
+{
+  font-style: inherit;
+  font-weight: bolder;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+/*#textfont
+{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}*/
+
 body{
 
-  background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("background.jpg");
+/*  background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url("background.jpg");
   filter: blur(8px);
-  -webkit-filter: blur(8px);
+  -webkit-filter: blur(8px);*/
 
   /*background : url("background.jpg") center center;
   filter: blur(8px);
@@ -40,6 +74,8 @@ background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, F
   /*padding: 2%;*/
   background-position: center ;
 }
+
+
 
 
 
@@ -72,6 +108,7 @@ padding: 1%;
 #mainnav
 {
   size : 10px;
+  padding-left: 15%
 }
 
 table, th, td {
